@@ -8,7 +8,7 @@ public class OperadoresRelacionais {
     public static void main(String[] args) {
         int a,b;
 
-        boolean menor,menorIgual,maiorIgual,maior,igual,diferente;
+        boolean menor, menorIgual, maiorIgual, maior, igual, diferente;
 
         // SCANNER É A ENTRADA DO USUARIO, PARA CRIAR A ENTRADA É NECESSARIO USAR AS DUAS FUNÇOES:
         //Scanner variavel = new Scanner(System.in); E  outraVariavel = leia.nextInt();
@@ -17,6 +17,7 @@ public class OperadoresRelacionais {
              a = entrada.nextInt();
         System.out.println("Digite um numero");
              b = entrada.nextInt();
+             entrada.close();
 
         // DENTRO DOS PARENTESES ESTÃO OS OPERADORES RELACIONAIS
         menor      = (a<b);
