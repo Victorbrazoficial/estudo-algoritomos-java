@@ -2,7 +2,6 @@ package opereadores;
 
 import java.util.Scanner;
 
-// TODO OPERADOR RELACIONAL RETORNA UM RESULTADO LOGICO (TRUE OU FALSE)
 public class OperadoresRelacionais {
 
     public static void main(String[] args) {
