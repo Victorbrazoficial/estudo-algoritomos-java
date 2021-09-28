@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DepartamentoDeTransito",
+            "request": "launch",
+            "mainClass": "estrutura.condicional.DepartamentoDeTransito",
+            "projectName": "estudo-algoritomos-java_3f3793e"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

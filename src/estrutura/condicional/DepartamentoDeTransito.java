@@ -1,4 +1,4 @@
-package estrutura;
+package estrutura.condicional;
 
 // Estrutura condicional que consulta se a pessoar já é maior de idade e pode tirar carteira
 import java.util.Scanner;
