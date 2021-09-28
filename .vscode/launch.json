@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SemafaroEstruturaDeRepeticao",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.SemafaroEstruturaDeRepeticao",
+            "projectName": "estudo-algoritomos-java_3f3793e"
+        },
+        {
+            "type": "java",
             "name": "Launch RepeticaoEnquantoFaca",
             "request": "launch",
             "mainClass": "estrutura.repeticao.RepeticaoEnquantoFaca",
