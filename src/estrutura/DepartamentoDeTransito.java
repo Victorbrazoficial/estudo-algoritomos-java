@@ -29,5 +29,4 @@ public class DepartamentoDeTransito {
             System.out.println("Você já esta autorizado a tirar carteira de motorista.");
         }
     }
-
 }

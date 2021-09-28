@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "estudoalgoritimojava_fa24915"
+        },
+        {
+            "type": "java",
+            "name": "Launch DepartamentoDeTransito",
+            "request": "launch",
+            "mainClass": "estrutura.DepartamentoDeTransito",
+            "projectName": "estudoalgoritimojava_fa24915"
+        },
+        {
+            "type": "java",
+            "name": "Launch CondicionalComposta",
+            "request": "launch",
+            "mainClass": "estrutura.condicional.CondicionalComposta",
+            "projectName": "estudoalgoritimojava_fa24915"
+        },
+        {
+            "type": "java",
+            "name": "Launch CondicionalSimples",
+            "request": "launch",
+            "mainClass": "estrutura.condicional.CondicionalSimples",
+            "projectName": "estudoalgoritimojava_fa24915"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "opereadores.OperadoresLogicos",
+            "projectName": "estudoalgoritimojava_fa24915"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "opereadores.OperadoresRelacionais",
+            "projectName": "estudoalgoritimojava_fa24915"
+        }
+    ]
+}
