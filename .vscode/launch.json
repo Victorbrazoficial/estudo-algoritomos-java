@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RepeticaoEnquantoFaca",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.RepeticaoEnquantoFaca",
+            "projectName": "estudo-algoritomos-java_3f3793e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepitaAteQue",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.RepitaAteQue",
+            "projectName": "estudo-algoritomos-java_3f3793e"
+        },
+        {
+            "type": "java",
             "name": "Launch DepartamentoDeTransito",
             "request": "launch",
             "mainClass": "estrutura.condicional.DepartamentoDeTransito",
