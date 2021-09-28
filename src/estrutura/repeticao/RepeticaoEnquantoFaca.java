@@ -11,6 +11,8 @@ public class RepeticaoEnquantoFaca {
         Scanner entrada = new Scanner(System.in);
             System.out.println("Digite ate que numero voce deseja contar:");
         usuario = entrada.nextInt();
+        entrada.close();
+        
         while (teste<=usuario) { // repete ate que valor de teste continue menor ou igual a valor de usuario.
             System.out.println(teste);
             teste++; // Soma +1 no valor da variavel
