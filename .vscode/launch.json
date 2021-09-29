@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EstruturaForComEntradaDeUsuario",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.EstruturaForComEntradaDeUsuario",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch Teste",
             "request": "launch",
             "mainClass": "estrutura.repeticao.Teste",
