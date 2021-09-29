@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PotenciaCriadaComRepeticaoFor",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.PotenciaCriadaComRepeticaoFor",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaRepeticaoUsandoFor",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.EstruturaRepeticaoUsandoFor",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch CondicionalAninhada",
+            "request": "launch",
+            "mainClass": "estrutura.condicionalaninhado.CondicionalAninhada",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepitaAteQue",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.RepitaAteQue",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch SemafaroEstruturaDeRepeticao",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.SemafaroEstruturaDeRepeticao",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeticaoEnquantoFaca",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.RepeticaoEnquantoFaca",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch SemafaroEstruturaDeRepeticao",
             "request": "launch",
             "mainClass": "estrutura.repeticao.SemafaroEstruturaDeRepeticao",
