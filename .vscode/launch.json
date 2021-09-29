@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.Teste",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch SemaforoRefatoradoUsandoFor",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.SemaforoRefatoradoUsandoFor",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch PotenciaCriadaComRepeticaoFor",
             "request": "launch",
             "mainClass": "estrutura.repeticao.PotenciaCriadaComRepeticaoFor",
