@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ProcedimentoSoma",
+            "request": "launch",
+            "mainClass": "procedimento.ProcedimentoSoma",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch SequenciaDeFibonacci",
+            "request": "launch",
+            "mainClass": "estrutura.repeticao.SequenciaDeFibonacci",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch Teste",
             "request": "launch",
             "mainClass": "opereadores.Teste",
