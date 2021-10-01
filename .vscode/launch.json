@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ProcedimentoSemParamentroESemRetorno",
+            "request": "launch",
+            "mainClass": "procedimento.ProcedimentoSemParamentroESemRetorno",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "teste.Teste",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParametroProcedimento",
+            "request": "launch",
+            "mainClass": "procedimento.ParametroProcedimento",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch ProcedimentoSoma",
             "request": "launch",
             "mainClass": "procedimento.ProcedimentoSoma",
