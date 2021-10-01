@@ -3,8 +3,8 @@ package procedimento;
 import java.util.Scanner;
 
 // Rotina sem passagem de paramentro e sem retorno.
-public class ProcedimentoSemParamentroESemRetorno {
-
+public class ProcedimentoSemParamentroESemRetorno 
+{
     public static int numeroUsuario; // Variavel Global
     
     public static void entradaUsuario() // Procedimento entrada do usuario.

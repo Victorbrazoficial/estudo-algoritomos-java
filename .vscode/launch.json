@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PassagemParametroTipoValor",
+            "request": "launch",
+            "mainClass": "procedimento.PassagemParametroTipoValor",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch ProcedimentoSemParamentroESemRetorno",
             "request": "launch",
             "mainClass": "procedimento.ProcedimentoSemParamentroESemRetorno",
