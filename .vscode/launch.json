@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MediaEscolarUsandoVetores",
+            "request": "launch",
+            "mainClass": "vetores.MediaEscolarUsandoVetores",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeirosPassosComVetores",
+            "request": "launch",
+            "mainClass": "vetores.PrimeirosPassosComVetores",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch OdernandoVetores",
+            "request": "launch",
+            "mainClass": "vetores.OdernandoVetores",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParametroComRetornoString",
+            "request": "launch",
+            "mainClass": "procedimento.ParametroComRetornoString",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassagemDeParametroComRetorno",
+            "request": "launch",
+            "mainClass": "procedimento.PassagemDeParametroComRetorno",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParametroPorReferencia",
+            "request": "launch",
+            "mainClass": "procedimento.ParametroPorReferencia",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch PassagemParametroTipoValor",
             "request": "launch",
             "mainClass": "procedimento.PassagemParametroTipoValor",
