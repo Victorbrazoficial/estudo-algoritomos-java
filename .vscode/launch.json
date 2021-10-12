@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch OrdenandoVetoresDeFormaRapida",
+            "request": "launch",
+            "mainClass": "vetores.OrdenandoVetoresDeFormaRapida",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch TransferenciaDeValorMaisComplexa",
+            "request": "launch",
+            "mainClass": "vetores.TransferenciaDeValorMaisComplexa",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
+            "name": "Launch TransferindoValorDosVetores",
+            "request": "launch",
+            "mainClass": "vetores.TransferindoValorDosVetores",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch MediaEscolarUsandoVetores",
             "request": "launch",
             "mainClass": "vetores.MediaEscolarUsandoVetores",
