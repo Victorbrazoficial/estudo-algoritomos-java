@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MatrizParOuImpar",
+            "request": "launch",
+            "mainClass": "matrizes.MatrizParOuImpar",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch CriandoMatrizes",
             "request": "launch",
             "mainClass": "matrizes.CriandoMatrizes",
