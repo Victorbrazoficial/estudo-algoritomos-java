@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TabelaDeFutebol",
+            "request": "launch",
+            "mainClass": "vetores.TabelaDeFutebol",
+            "projectName": "estudo-algoritomos-java-1_d4fa2762"
+        },
+        {
+            "type": "java",
             "name": "Launch OrdenandoVetoresDeFormaRapida",
             "request": "launch",
             "mainClass": "vetores.OrdenandoVetoresDeFormaRapida",
